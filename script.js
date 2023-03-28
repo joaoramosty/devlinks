@@ -6,6 +6,7 @@ function toggleMode() {
     const img = document.querySelector("#profile")
     // se tiver light mode , adicionar a imagem light
     img.setAttribute('src','./assests/avatar-sun.png')
+    
+    return ("src", '.assests/avatar.png')
     // se tiver sem light mode , manter a imagem night mode
-    img.setAttribute('src','./assests/avatar.png')
-  }
+}
