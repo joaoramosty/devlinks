@@ -31,7 +31,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 O DevLinks é um agregador de links para usar como cartão de visitas online, utilizado na biografia do Instagram , então coloquei como nome: LinkBio.
 
 
-![devlinks gif](https://user-images.githubusercontent.com/127153835/229223765-6047bbb3-2a22-41bf-9262-b836073633de.gif)
+![devlinks gif](https://user-images.githubusercontent.com/127153835/229223765-6047bbb3-2a22-41bf-9262-b836073633de.gif width="100%")
 
 
 - [Acesse o projeto finalizado, online](https://ojoaoramos.github.io/devlinks/)
