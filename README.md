@@ -33,7 +33,7 @@ O DevLinks é um agregador de links para usar como cartão de visitas online, ut
 ![mylinks final](https://user-images.githubusercontent.com/127153835/229230652-ed214101-a421-400c-84be-16eb82837ea9.gif)
 
 
-- [Acesse o projeto finalizado, online](https://ojoaoramos.github.io/devlinks/)
+- <h2 align="center">[Acesse o projeto finalizado, online](https://ojoaoramos.github.io/devlinks/)</h2>
 
 
 ## 🔖 Layout
