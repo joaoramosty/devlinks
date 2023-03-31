@@ -14,7 +14,7 @@
 <br>
 
 <p align="center">
-  <img alt="projeto LinkBio" src=".assests/preview.jpg" width="100%">
+  <img alt="projeto LinkBio" src="assests/preview.jpg" width="100%">
 </p>
 
 ## 🚀 Tecnologias
