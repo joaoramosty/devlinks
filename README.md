@@ -14,7 +14,7 @@
 <br>
 
 <p align="center">
-  <img alt="projeto LinkBio" src=".github/preview.jpg" width="100%">
+  <img alt="projeto LinkBio" src="../.github/preview.jpg" width="100%">
 </p>
 
 ## 🚀 Tecnologias
@@ -30,7 +30,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O DevLinks é um agregador de links para usar como cartão de visitas online, utilizado na biografia do Instagram , então coloquei como nome: LinkBio.
 
-- [Acesse o projeto finalizado, online]()
+- [Acesse o projeto finalizado, online](https://ojoaoramos.github.io/devlinks/)
 
 
 ## 🔖 Layout
